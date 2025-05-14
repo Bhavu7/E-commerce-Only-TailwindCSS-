@@ -1,6 +1,6 @@
 # E-commerce Website with Tailwind CSS
 
-![Project Screenshot](https://i.imgur.com/J5Z8YQp.png) <!-- Replace with your actual screenshot URL -->
+![Project Screenshot](NexaShop.png) <!-- Replace with your actual screenshot URL -->
 
 A modern, responsive e-commerce website built using only Tailwind CSS with custom animations and interactive UI components.
 
